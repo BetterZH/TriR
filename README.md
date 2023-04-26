@@ -1,2 +1,2 @@
-# MVR
-MVR for CLC task
+# TriR
+TriR for CLC task
